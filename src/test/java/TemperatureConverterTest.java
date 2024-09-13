@@ -1,5 +1,6 @@
 // import package
 
+import TemperatureConverter.TemperatureConverter;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

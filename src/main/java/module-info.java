@@ -1,0 +1,3 @@
+module TemperatureConverter {
+    exports TemperatureConverter;
+}
