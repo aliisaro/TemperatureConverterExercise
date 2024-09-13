@@ -1,4 +1,4 @@
-package TemperatureConverter;
+package com.example;
 
 public class TemperatureConverter {
     public double fahrenheitToCelsius(double fahrenheit) {
