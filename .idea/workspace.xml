@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaff725a-f4d8-4f96-8945-47b37426a5c5" name="Changes" comment="Updated pom.xml and temperatureconverter + tests">
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+    <list default="true" id="eaff725a-f4d8-4f96-8945-47b37426a5c5" name="Changes" comment="updated jenkinsfile">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -141,7 +142,7 @@
       <workItem from="1726387581051" duration="11000" />
       <workItem from="1726409547991" duration="590000" />
       <workItem from="1726410452127" duration="96000" />
-      <workItem from="1727435727221" duration="1086000" />
+      <workItem from="1727435727221" duration="1324000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -175,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727436655589</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1727436836101</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727436836101</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1727436882679</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727436882679</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +201,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
     <MESSAGE value="Updated pom.xml and temperatureconverter + tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated pom.xml and temperatureconverter + tests" />
+    <MESSAGE value="added jenkinsfile" />
+    <MESSAGE value="updated jenkinsfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated jenkinsfile" />
   </component>
 </project>
