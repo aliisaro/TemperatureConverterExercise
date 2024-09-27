@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaff725a-f4d8-4f96-8945-47b37426a5c5" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="eaff725a-f4d8-4f96-8945-47b37426a5c5" name="Changes" comment="Updated pom.xml and temperatureconverter + tests">
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TemperatureConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TemperatureConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TemperatureConverterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,9 +98,9 @@
       <command value="mvn install" />
       <command value="mvn jacoco:report" />
       <command value="mvn clean install " />
-      <command value="mvn clean install" />
       <command value="mvn mvn clean test" />
       <command value="mvn clean test" />
+      <command value="mvn clean install" />
     </option>
   </component>
   <component name="RunManager">
@@ -144,7 +141,7 @@
       <workItem from="1726387581051" duration="11000" />
       <workItem from="1726409547991" duration="590000" />
       <workItem from="1726410452127" duration="96000" />
-      <workItem from="1727435727221" duration="811000" />
+      <workItem from="1727435727221" duration="1086000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -170,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726221097712</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated pom.xml and temperatureconverter + tests">
+      <option name="closed" value="true" />
+      <created>1727436655588</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727436655589</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +183,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Updated pom.xml and temperatureconverter + tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated pom.xml and temperatureconverter + tests" />
   </component>
 </project>
