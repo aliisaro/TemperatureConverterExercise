@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaff725a-f4d8-4f96-8945-47b37426a5c5" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TemperatureConverter/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/TemperatureConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/temperatureconverterexercise/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TemperatureConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TemperatureConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TemperatureConverterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aliisaro"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aliisaro/TemperatureConverterExercise.git",
+    "accountId": "20de4316-1e1e-4a2c-be14-46480de67c64"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -46,6 +57,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.TemperatureConverterTest.executor": "Run",
+    "Maven.TemperatureConverterExercise [clean,test].executor": "Run",
+    "Maven.TemperatureConverterExercise [clean...].executor": "Run",
+    "Maven.TemperatureConverterExercise [clean].executor": "Run",
+    "Maven.TemperatureConverterExercise [install].executor": "Run",
+    "Maven.TemperatureConverterExercise [jacoco:report].executor": "Run",
+    "Maven.TemperatureConverterExercise [mvn,clean...].executor": "Run",
     "Maven.TemperatureConverterExercise [org.apache.maven.plugins:maven-clean-plugin:2.5:clean].executor": "Run",
     "Maven.TemperatureConverterExercise [org.apache.maven.plugins:maven-install-plugin:2.4:help].executor": "Run",
     "Maven.TemperatureConverterExercise [org.apache.maven.plugins:maven-install-plugin:2.4:install-file].executor": "Run",
@@ -78,11 +95,38 @@
       <recent name="com.example.temperatureconverterexercise" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+      <command value="mvn jacoco:report" />
+      <command value="mvn clean install " />
+      <command value="mvn clean install" />
+      <command value="mvn mvn clean test" />
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TemperatureConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TemperatureConverterExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TemperatureConverterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TemperatureConverterTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -95,7 +139,12 @@
       <option name="presentableId" value="Default" />
       <updated>1725607845539</updated>
       <workItem from="1725607846609" duration="2381000" />
-      <workItem from="1726212680618" duration="4465000" />
+      <workItem from="1726212680618" duration="5038000" />
+      <workItem from="1726222566662" duration="2958000" />
+      <workItem from="1726387581051" duration="11000" />
+      <workItem from="1726409547991" duration="590000" />
+      <workItem from="1726410452127" duration="96000" />
+      <workItem from="1727435727221" duration="811000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -113,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726213698328</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <option name="closed" value="true" />
+      <created>1726221097712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726221097712</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,16 +179,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/TemperatureConverterTest.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
